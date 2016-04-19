@@ -1,0 +1,8 @@
+{
+    "author": "danomatika",
+    "cloneUrl": "https://github.com/danomatika/ofxMidi.git",
+    "license": "BSD Simplified",
+    "name": "ofxMidi",
+    "type": "addon",
+    "website": "https://github.com/danomatika/ofxMidi"
+}

@@ -1,0 +1,7 @@
+{
+"name": "ofxNetworkUtils",
+"description": "A set of network utilities",
+"github": "bakercp/ofxNetworkUtils",
+"tags": ["network", "utilities", "CIDR"]
+}
+
