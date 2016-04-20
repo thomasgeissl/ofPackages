@@ -1,7 +1,8 @@
 {
-"name": "ofxNetworkUtils",
-"description": "A set of network utilities",
-"github": "bakercp/ofxNetworkUtils",
-"tags": ["network", "utilities", "CIDR"]
+    "author": "bakercp",
+    "cloneUrl": "https://github.com/bakercp/ofxNetworkUtils.git",
+    "license": "",
+    "name": "ofxNetworkUtils",
+    "type": "addon",
+    "website": "https://github.com/bakercp/ofxNetworkUtils"
 }
-
