@@ -1,7 +1,7 @@
 {
     "author": "braitsch",
     "cloneUrl": "https://github.com/braitsch/ofxDatGui.git",
-    "license": "",
+    "license": "MIT",
     "name": "ofxDatGui",
     "type": "addon",
     "website": "https://github.com/braitsch/ofxDatGui"
