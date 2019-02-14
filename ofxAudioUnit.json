@@ -1,0 +1,8 @@
+{
+    "author": "admsyn",
+    "cloneUrl": "https://github.com/admsyn/ofxAudioUnit.git",
+    "license": "GPL",
+    "name": "ofxAudioAnalyzer",
+    "type": "addon",
+    "website": "https://github.com/admsyn/ofxAudioUnit"
+}

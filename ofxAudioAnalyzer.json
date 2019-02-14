@@ -1,0 +1,8 @@
+{
+    "author": "leozimmerman",
+    "cloneUrl": "https://github.com/leozimmerman/ofxAudioAnalyzer.git",
+    "license": "GPL",
+    "name": "ofxAudioAnalyzer",
+    "type": "addon",
+    "website": "https://github.com/leozimmerman/ofxAudioAnalyzer"
+}
