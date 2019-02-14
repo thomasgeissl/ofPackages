@@ -1,0 +1,8 @@
+{
+    "author": "bakercp",
+    "cloneUrl": "https://github.com/bakercp/ofxSpatialHash.git",
+    "license": "MIT",
+    "name": "ofxSpatialHash",
+    "type": "addon",
+    "website": "https://github.com/bakercp/ofxSpatialHash"
+}

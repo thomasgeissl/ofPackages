@@ -1,0 +1,8 @@
+{
+    "author": "schwittlick",
+    "cloneUrl": "https://github.com/schwittlick/ofxDarknet.git",
+    "license": "MIT",
+    "name": "ofxDarknet",
+    "type": "addon",
+    "website": "https://github.com/schwittlick/ofxDarknet"
+}

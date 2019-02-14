@@ -1,0 +1,8 @@
+{
+    "author": "memo",
+    "cloneUrl": "https://github.com/memo/ofxMSATensorFlow.git",
+    "license": "Apache",
+    "name": "ofxMSATensorFlow",
+    "type": "addon",
+    "website": "https://github.com/memo/ofxMSATensorFlow"
+}
