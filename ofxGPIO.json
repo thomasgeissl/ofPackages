@@ -1,0 +1,8 @@
+{
+    "author": "kashimAstro",
+    "cloneUrl": "https://github.com/kashimAstro/ofxGPIO.git",
+    "license": "MIT",
+    "name": "ofxGPIO",
+    "type": "addon",
+    "website": "https://github.com/kashimAstro/ofxGPIO"
+}

@@ -1,0 +1,8 @@
+{
+    "author": "danomatika",
+    "cloneUrl": "https://github.com/danomatika/ofxLua.git",
+    "license": "BSD Simplified",
+    "name": "ofxLua",
+    "type": "addon",
+    "website": "https://github.com/danomatika/ofxLua"
+}

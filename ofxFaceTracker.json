@@ -1,0 +1,8 @@
+{
+    "author": "kylemcdonald",
+    "cloneUrl": "https://github.com/kylemcdonald/ofxFaceTracker.git",
+    "license": "MIT",
+    "name": "ofxFaceTracker",
+    "type": "addon",
+    "website": "https://github.com/kylemcdonald/ofxFaceTracker"
+}

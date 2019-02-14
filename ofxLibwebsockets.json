@@ -1,0 +1,8 @@
+{
+    "author": "robotconscience",
+    "cloneUrl": "https://github.com/robotconscience/ofxLibwebsockets.git",
+    "license": "MIT",
+    "name": "ofxLibwebsockets",
+    "type": "addon",
+    "website": "https://github.com/robotconscience/ofxLibwebsockets"
+}
